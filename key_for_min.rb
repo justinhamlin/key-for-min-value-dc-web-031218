@@ -14,4 +14,5 @@ name_hash.collect do |key, value|
     smallest_hash_value = key
     key
   end
+  end
 end
