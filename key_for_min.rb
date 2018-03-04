@@ -13,4 +13,5 @@ name_hash.collect do |key, value|
     elsif array[2] < array[0] && array[1]
     smallest_hash_value = key
     key
+  end
 end
